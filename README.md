@@ -3,3 +3,4 @@
     前端框架使用的vue,插件有vue-router,vue-resource;
     后端使用的是nodejs express框架;
     数据库用的是mongoose.
+    使用webpack工程化管理
